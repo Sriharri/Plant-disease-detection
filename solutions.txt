@@ -1,0 +1,39 @@
+Apple Apple_scab - Apply a fungicide containing neem oil to control Apple scab. Ensure proper pruning practices and remove infected leaves regularly. Apply organic compost for healthier trees.
+Apple Black_rot - Implement a regular spraying schedule with fungicides. Prune affected branches and destroy infected fruits to prevent the spread of Black rot. Ensure good air circulation.
+Apple Cedar_apple_rust - Use fungicides containing myclobutanil or sulfur. Remove nearby juniper or cedar trees to eliminate the alternate host. Apply preventive sprays during the growing season.
+Apple healthy - Maintain a regular watering and fertilization schedule. Prune trees to improve air circulation. Monitor for pests and diseases regularly. Apply organic compost.
+Blueberry healthy - Provide acidic soil conditions. Mulch with pine needles. Water consistently, and protect from extreme weather conditions. Prune dead or diseased branches.
+Cherry_(including_sour) Powdery_mildew - Use fungicides containing sulfur or potassium bicarbonate. Prune infected branches and promote good air circulation. Apply preventive treatments during the growing season.
+Cherry_(including_sour) healthy - Implement a regular watering and fertilization schedule. Prune trees for proper shape. Apply organic compost and monitor for pests.
+Corn_(maize) Cercospora_leaf_spot Gray_leaf_spot - Rotate crops to reduce disease pressure. Apply fungicides containing chlorothalonil or azoxystrobin. Ensure good crop hygiene and remove infected plant debris.
+Corn_(maize) Common_rust - Plant resistant corn varieties. Apply fungicides containing triazoles or strobilurins. Remove and destroy infected plant material. Implement a regular spraying schedule.
+Corn_(maize) Northern_Leaf_Blight - Rotate crops and use resistant varieties. Apply fungicides containing azoxystrobin or pyraclostrobin. Remove and destroy infected plant material.
+Corn_(maize) healthy - Implement proper crop rotation. Provide adequate spacing between plants. Monitor for pests and diseases regularly. Apply balanced fertilizers based on soil tests.
+Grape Black_rot - Implement a regular fungicide spray program. Prune vines for good air circulation and sunlight exposure. Remove and destroy infected fruit clusters. Apply organic mulch around the base of vines.
+Grape Esca_(Black_Measles) - Prune vines to remove infected wood. Apply fungicides containing fosetyl-aluminum or propiconazole. Monitor for symptoms and remove infected vines promptly.
+Grape Leaf_blight_(Isariopsis_Leaf_Spot) - Apply fungicides containing chlorothalonil or mancozeb. Prune vines to improve air circulation. Avoid overhead irrigation to reduce leaf wetness. Remove and destroy infected leaves.
+Grape healthy - Implement proper vineyard management practices. Provide adequate spacing between vines. Monitor for pests and diseases regularly. Apply balanced fertilizers based on soil tests.
+Orange Haunglongbing_(Citrus_greening) - Remove and destroy infected trees. Apply insecticides to control the Asian citrus psyllid, the vector of citrus greening. Implement a nutritional management program for affected trees.
+Peach Bacterial_spot - Apply copper-based sprays during the dormant season. Prune infected branches and destroy infected leaves. Implement a regular spraying schedule with bactericides during the growing season.
+Peach healthy - Implement proper orchard management practices. Prune trees for good air circulation. Monitor for pests and diseases regularly. Apply balanced fertilizers based on soil tests.
+Pepper,_bell Bacterial_spot - Rotate crops to reduce disease pressure. Apply copper-based sprays during the growing season. Remove and destroy infected plant material. Provide adequate spacing between plants.
+Pepper,_bell healthy - Implement proper garden management practices. Provide well-drained soil. Monitor for pests and diseases regularly. Apply balanced fertilizers based on soil tests.
+Potato Early_blight - Rotate crops and use resistant potato varieties. Apply fungicides containing chlorothalonil or mancozeb. Remove and destroy infected plant material. Implement a regular spraying schedule.
+Potato Late_blight - Implement a regular fungicide spray program. Remove and destroy infected plant material. Provide proper spacing between plants. Monitor for early signs of the disease.
+Potato healthy - Practice proper crop rotation. Monitor for pests and diseases regularly. Provide well-drained soil. Apply balanced fertilizers based on soil tests.
+Raspberry healthy - Prune raspberry canes regularly. Provide support for tall varieties. Mulch around plants with organic material. Monitor for pests and diseases regularly.
+Soybean healthy - Rotate soybean crops regularly. Monitor for soybean cyst nematode and implement control measures if detected. Provide proper nutrient management based on soil tests.
+Squash Powdery_mildew - Apply fungicides containing potassium bicarbonate or neem oil. Prune affected leaves to improve air circulation. Provide proper spacing between plants. Water at the base to avoid leaf wetness.
+Strawberry Leaf_scorch - Apply fungicides containing copper. Remove and destroy infected leaves. Provide proper spacing between plants for air circulation. Mulch around plants to prevent soil splash.
+Strawberry healthy - Plant disease-resistant strawberry varieties. Provide well-drained soil. Monitor for pests and diseases regularly. Mulch around plants with straw or pine needles.
+Tomato Bacterial_spot - Rotate tomato crops regularly. Apply copper-based sprays during the growing season. Prune affected leaves and destroy infected plant material. Provide proper spacing between plants.
+Tomato Early_blight - Implement a regular fungicide spray program. Prune affected leaves and provide proper spacing between plants. Remove and destroy infected plant material.
+Tomato Late_blight - Apply fungicides containing chlorothalonil or mancozeb. Prune affected leaves and provide proper spacing between plants. Remove and destroy infected plant material.
+Tomato Leaf_Mold - Apply fungicides containing copper or chlorothalonil. Provide proper spacing between plants for air circulation. Water at the base to avoid leaf wetness. Prune affected leaves.
+Tomato Septoria_leaf_spot - Rotate tomato crops regularly. Apply fungicides containing chlorothalonil or copper. Prune affected leaves and provide proper spacing between plants.
+Tomato Spider_mites Two-spotted_spider_mite - Apply miticides to control spider mites. Provide adequate humidity and avoid over-fertilization. Monitor for early signs of spider mite infestation.
+Tomato Target_Spot - Apply fungicides containing azoxystrobin or chlorothalonil. Prune affected leaves and provide proper spacing between plants. Monitor for early signs of target spot.
+Tomato Tomato_Yellow_Leaf_Curl_Virus - Control whiteflies, the vector of the virus, using insecticides. Plant virus-resistant tomato varieties. Remove and destroy infected plants promptly.
+Tomato Tomato_mosaic_virus - Control aphids, the vector of the virus, using insecticides. Plant virus-resistant tomato varieties. Remove and destroy infected plants promptly.
+Tomato healthy - Practice crop rotation and proper garden hygiene. Provide well-drained soil. Monitor for pests and diseases regularly. Apply balanced fertilizers based on soil tests.
+Potato unhealthy - To address potato health issues, consider implementing crop rotation to prevent disease buildup, using certified disease-resistant potato varieties, and applying organic fertilizers to maintain soil health and reduce chemical inputs.
